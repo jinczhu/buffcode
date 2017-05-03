@@ -4,36 +4,12 @@
         "source": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/drawable-xxhdpi/keyboard_background_holo.9.png"
     },
     {
-        "merged": "/Users/jc/workspace/morse/buffcode/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_keyboard_key_normal_holo_light.9.png",
-        "source": "/Users/jc/workspace/morse/buffcode/app/src/main/res/drawable-xxhdpi/btn_keyboard_key_normal_holo_light.9.png"
-    },
-    {
-        "merged": "/Users/jc/workspace/morse/buffcode/app/build/intermediates/res/merged/debug/drawable-xxhdpi/dotdash_shift_on.9.png",
-        "source": "/Users/jc/workspace/morse/buffcode/app/src/main/res/drawable-xxhdpi/dotdash_shift_on.9.png"
-    },
-    {
-        "merged": "/Users/jc/workspace/morse/buffcode/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_keyboard_key_pressed_klp_light.9.png",
-        "source": "/Users/jc/workspace/morse/buffcode/app/src/main/res/drawable-xxhdpi/btn_keyboard_key_pressed_klp_light.9.png"
-    },
-    {
         "merged": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/dotdash_shift_off.9.png",
         "source": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/drawable-xxhdpi/dotdash_shift_off.9.png"
     },
     {
-        "merged": "/Users/jc/workspace/morse/buffcode/app/build/intermediates/res/merged/debug/drawable-xxhdpi/dotdash_shift_off.9.png",
-        "source": "/Users/jc/workspace/morse/buffcode/app/src/main/res/drawable-xxhdpi/dotdash_shift_off.9.png"
-    },
-    {
-        "merged": "/Users/jc/workspace/morse/buffcode/app/build/intermediates/res/merged/debug/drawable-xxhdpi/dotdash_shift_on_pressed.9.png",
-        "source": "/Users/jc/workspace/morse/buffcode/app/src/main/res/drawable-xxhdpi/dotdash_shift_on_pressed.9.png"
-    },
-    {
         "merged": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/dotdash_shift_off_pressed.9.png",
         "source": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/drawable-xxhdpi/dotdash_shift_off_pressed.9.png"
-    },
-    {
-        "merged": "/Users/jc/workspace/morse/buffcode/app/build/intermediates/res/merged/debug/drawable-xxhdpi/dotdash_shift_off_pressed.9.png",
-        "source": "/Users/jc/workspace/morse/buffcode/app/src/main/res/drawable-xxhdpi/dotdash_shift_off_pressed.9.png"
     },
     {
         "merged": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/dotdash_shift_on.9.png",
@@ -50,9 +26,5 @@
     {
         "merged": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_keyboard_key_pressed_klp_light.9.png",
         "source": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/drawable-xxhdpi/btn_keyboard_key_pressed_klp_light.9.png"
-    },
-    {
-        "merged": "/Users/jc/workspace/morse/buffcode/app/build/intermediates/res/merged/debug/drawable-xxhdpi/keyboard_background_holo.9.png",
-        "source": "/Users/jc/workspace/morse/buffcode/app/src/main/res/drawable-xxhdpi/keyboard_background_holo.9.png"
     }
 ]

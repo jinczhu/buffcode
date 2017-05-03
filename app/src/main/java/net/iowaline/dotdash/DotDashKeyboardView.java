@@ -230,6 +230,8 @@ public class DotDashKeyboardView extends KeyboardView {
 						//Log.d(TAG, "doubleTap");
 						if (singletap==true)
 								service.handledashkey();
+						else
+								service.handdoublekey();
 
 						return true;
 					}

@@ -1,7 +1,7 @@
-#Wed May 03 01:16:34 MDT 2017
-base.0=/Users/jc/workspace/morse/buffcode/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e1a29f50552d68a866e9a8be9404b004af77d48d
+#Wed May 03 11:35:28 MDT 2017
+base.0=/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ccd811899d885f27edb73a7859dd04c0baec7999
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=/Users/jc/workspace/morse/buffcode/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_481e9b3662faebd2603d9d80a2e8e332a4c65f9a/classes.dex
-base.1=/Users/jc/workspace/morse/buffcode/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_481e9b3662faebd2603d9d80a2e8e332a4c65f9a
-file.0=/Users/jc/workspace/morse/buffcode/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e1a29f50552d68a866e9a8be9404b004af77d48d/classes.dex
+file.1=/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b4b1e301768109fce088a37dc53a1a7de6183a54/classes.dex
+base.1=/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b4b1e301768109fce088a37dc53a1a7de6183a54
+file.0=/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ccd811899d885f27edb73a7859dd04c0baec7999/classes.dex

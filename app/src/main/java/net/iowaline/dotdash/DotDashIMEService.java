@@ -27,6 +27,8 @@ public class DotDashIMEService extends InputMethodService implements
 	KeyboardView.OnKeyboardActionListener, OnSharedPreferenceChangeListener {
 
 	public int keycode;
+	public int keydouble1=-1;
+	public int keydouble2=-1;
 //	private String TAG = "DotDashIMEService";
 	private DotDashKeyboardView inputView;
 	public DotDashKeyboard dotDashKeyboard;
@@ -331,11 +333,20 @@ public class DotDashIMEService extends InputMethodService implements
 			case DotDashKeyboard.KEYCODE_DOT:
 				//handledotkey();
 				keycode=DotDashKeyboard.KEYCODE_DOT;
+				if (keydouble1==-1)
+					keydouble1=dotDashKeyboard.KEYCODE_DOT;
+				else
+					keydouble2=dotDashKeyboard.KEYCODE_DOT;
+
 				break;
 
 			case DotDashKeyboard.KEYCODE_DASH:
 				//handledashkey();
 				keycode=dotDashKeyboard.KEYCODE_DASH;
+				if (keydouble1==-1)
+					keydouble1=dotDashKeyboard.KEYCODE_DASH;
+				else
+					keydouble2=dotDashKeyboard.KEYCODE_DASH;
 /*				if (charInProgress.length() < maxCodeLength) {
 					charInProgress.append(primaryCode == DotDashKeyboard.KEYCODE_DASH ? "-" : ".");
 					updateSpaceKey(true);
@@ -476,6 +487,15 @@ public class DotDashIMEService extends InputMethodService implements
 		keycode=dotDashKeyboard.KEYCODE_DASH;
 		handleddkey();
 
+	}
+
+	public void handdoublekey(){
+		keycode=keydouble1;
+		handleddkey();
+		keydouble1=-1;
+		keycode=keydouble2;
+		handleddkey();
+		keydouble2=-1;
 	}
 
 	public void handleSpace() {
@@ -649,7 +669,7 @@ public class DotDashIMEService extends InputMethodService implements
 	 * @param boolean refreshScreen Whether or not to refresh the screen afterwards.
 	 */
 	public void updateSpaceKey(boolean refreshScreen) {
-		/*String newLabel = charInProgress.toString();
+		String newLabel = charInProgress.toString();
 		
 		// Workaround to maintain consistent styling. Android puts multi-character
 		// labels in bold, and single-characters in non-bold. To make the bold state
@@ -675,7 +695,7 @@ public class DotDashIMEService extends InputMethodService implements
 					// this
 				}
 			}
-		}*/
+		}
 	}
 
 	@Override

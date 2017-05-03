@@ -2,40 +2,85 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="22"
-    build-mode="COLD"
+    build-mode="FULL"
     density="xhdpi"
     format="10"
     plugin-version="2.3.1"
-    timestamp="1493795787578"
+    timestamp="1493832920385"
     token="8489931476327534586"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="143" />
+        duration="463" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="142" />
+        duration="186" />
     <task
         name="verifier"
-        duration="28" />
+        duration="21" />
 
     <artifact
-        location="/Users/jc/workspace/morse/buffcode/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/jc/workspace/morse/buffcode/app/build/outputs/apk/app-debug.apk"
+        location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/outputs/apk/app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1493795413594"
+        timestamp="1493832920385"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
+            location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
             location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
             location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
@@ -44,50 +89,10 @@
             location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
             location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
             location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1493795661345"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1493795787578"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/jc/workspace/morse/buffcode/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/jc/workspace/morse/buffcode/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 
