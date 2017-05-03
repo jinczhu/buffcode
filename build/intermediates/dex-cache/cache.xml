@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/jc/AndroidStudioProjects/AllEars/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.0"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="/Users/jc/AndroidStudioProjects/AllEars/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e8c4dfe0ad7e1e2503613bec3e0e37adad7ad1d8/classes.dex" />
+        revision="25.0.2"
+        sha1="c2b70346ca6b5f75aa6d81bd84491dc3b06d3647">
+        <dex dex="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ccd811899d885f27edb73a7859dd04c0baec7999/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jc/AndroidStudioProjects/AllEars/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.0"
-        sha1="d8f75b4a04d51b9d5e9a9ee32235ef72c72056c2">
-        <dex dex="/Users/jc/AndroidStudioProjects/AllEars/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_907e982a446273fddee19d847a3861419a699b9a/classes.dex" />
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b4b1e301768109fce088a37dc53a1a7de6183a54/classes.dex" />
     </item>
 
 </items>

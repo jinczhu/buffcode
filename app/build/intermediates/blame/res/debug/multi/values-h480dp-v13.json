@@ -1,0 +1,175 @@
+[
+    {
+        "outputFile": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h480dp-v13/values-h480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/values-h480dp/style.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1827,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 541
+                },
+                "from": {
+                    "file": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/values-h480dp/style.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1342,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 546,
+                    "endLine": 17,
+                    "endColumn": 11,
+                    "endOffset": 823
+                },
+                "from": {
+                    "file": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/values-h480dp/style.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 1060,
+                        "endLine": 26,
+                        "endColumn": 11,
+                        "endOffset": 1337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 828,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 960
+                },
+                "from": {
+                    "file": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/values-h480dp/style.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1690,
+                        "endLine": 36,
+                        "endColumn": 12,
+                        "endOffset": 1822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 965,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1088
+                },
+                "from": {
+                    "file": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/values-h480dp/style.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 935,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1093,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1352
+                },
+                "from": {
+                    "file": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/values-h480dp/style.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1357,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1718
+                },
+                "from": {
+                    "file": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/values-h480dp/style.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1723,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 1909
+                },
+                "from": {
+                    "file": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/values-h480dp/style.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 666
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/res/merged/debug/layout/input.xml",
+        "source": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/layout/input.xml"
+    },
+    {
+        "merged": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/res/merged/debug/layout/cheatsheet1.xml",
+        "source": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/layout/cheatsheet1.xml"
+    },
+    {
+        "merged": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/res/merged/debug/layout/cheatsheet2.xml",
+        "source": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/layout/cheatsheet2.xml"
+    }
+]

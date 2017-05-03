@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/res/merged/debug/drawable/sym_keyboard_space.png",
+        "source": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/drawable/sym_keyboard_space.png"
+    },
+    {
+        "merged": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/res/merged/debug/drawable/dotdash_key.xml",
+        "source": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/drawable/dotdash_key.xml"
+    },
+    {
+        "merged": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/res/merged/debug/drawable/sym_keyboard_delete.png",
+        "source": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/drawable/sym_keyboard_delete.png"
+    }
+]

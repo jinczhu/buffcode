@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:4:5-35
+		INJECTED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:6:5-37
+		INJECTED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:5:5-29
+		INJECTED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:3:5-63
+uses-sdk
+ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:10:5-12:41
+	android:targetSdkVersion
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:12:9-38
+		INJECTED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:11:9-34
+		INJECTED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:13:5-40:23
+	android:label
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:15:9-45
+	android:installLocation
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:17:9-47
+service#net.iowaline.dotdash.DotDashIMEService
+ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:19:9-29:19
+	android:permission
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:21:13-70
+	android:name
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:20:13-46
+intent-filter#android.view.InputMethod
+ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:23:13-25:29
+action#android.view.InputMethod
+ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:24:17-67
+	android:name
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:24:25-64
+meta-data#android.view.im
+ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:26:13-28:50
+	android:resource
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:28:17-47
+	android:name
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:27:17-47
+activity#net.iowaline.dotdash.DotDashPrefs
+ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:30:9-39:20
+	android:label
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:31:13-45
+	android:theme
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:33:13-46
+	android:name
+		ADDED from /Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/AndroidManifest.xml:32:13-41
