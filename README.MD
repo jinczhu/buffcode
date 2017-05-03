@@ -1,12 +1,12 @@
+Morse code IME
+
 compile:
 
-using android studio to compile
+using android studio. 
+set "app- edit configurations-launch option:" nothing.
 
 usage:
-
-choose imput method in setting
-
-dot: left key.
-dash: right key.
+dot: left key
+dash: right key
 space: right swipe.
 del: left swipe.
