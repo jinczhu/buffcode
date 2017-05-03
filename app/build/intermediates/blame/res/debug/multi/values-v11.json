@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "/Users/jc/workspace/morse/buffcode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 71,
+                    "endOffset": 122
+                },
+                "from": {
+                    "file": "/Users/jc/workspace/morse/buffcode/app/src/main/res/values-v11/themes.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 78,
+                        "endOffset": 129
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
         "map": [
             {

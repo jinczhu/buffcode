@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/jc/workspace/morse/buffcode/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/jc/workspace/morse/buffcode/app/src/debug/jniLibs"/></dataSet></merger>

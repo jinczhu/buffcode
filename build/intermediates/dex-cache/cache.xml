@@ -19,5 +19,23 @@
         sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
         <dex dex="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b4b1e301768109fce088a37dc53a1a7de6183a54/classes.dex" />
     </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jc/workspace/morse/buffcode/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7126101c7c7953cfe2b8001bf744c154c2cb3910">
+        <dex dex="/Users/jc/workspace/morse/buffcode/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e1a29f50552d68a866e9a8be9404b004af77d48d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jc/workspace/morse/buffcode/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/jc/workspace/morse/buffcode/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_481e9b3662faebd2603d9d80a2e8e332a4c65f9a/classes.dex" />
+    </item>
 
 </items>

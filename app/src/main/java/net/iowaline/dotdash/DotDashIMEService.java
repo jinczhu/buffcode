@@ -460,7 +460,7 @@ public class DotDashIMEService extends InputMethodService implements
 				float volume = actualVolume / maxVolume;
 				soundpool.play(soundid, volume, volume, 1, 0, 1f);
 
-			//	vib.vibrate(vibrateLength);
+				//vib.vibrate(vibrateLength);
 			}
 		}
 

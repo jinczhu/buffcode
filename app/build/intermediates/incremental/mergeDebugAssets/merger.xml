@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/assets"/><source path="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/debug/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/jc/workspace/morse/buffcode/app/src/main/assets"/><source path="/Users/jc/workspace/morse/buffcode/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/jc/workspace/morse/buffcode/app/src/debug/assets"/></dataSet></merger>

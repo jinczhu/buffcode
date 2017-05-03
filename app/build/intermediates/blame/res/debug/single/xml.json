@@ -1,11 +1,27 @@
 [
     {
+        "merged": "/Users/jc/workspace/morse/buffcode/app/build/intermediates/res/merged/debug/xml/utilitykeyboard.xml",
+        "source": "/Users/jc/workspace/morse/buffcode/app/src/main/res/xml/utilitykeyboard.xml"
+    },
+    {
         "merged": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/res/merged/debug/xml/method.xml",
         "source": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/xml/method.xml"
     },
     {
+        "merged": "/Users/jc/workspace/morse/buffcode/app/build/intermediates/res/merged/debug/xml/dotdash.xml",
+        "source": "/Users/jc/workspace/morse/buffcode/app/src/main/res/xml/dotdash.xml"
+    },
+    {
         "merged": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/res/merged/debug/xml/prefs.xml",
         "source": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/src/main/res/xml/prefs.xml"
+    },
+    {
+        "merged": "/Users/jc/workspace/morse/buffcode/app/build/intermediates/res/merged/debug/xml/prefs.xml",
+        "source": "/Users/jc/workspace/morse/buffcode/app/src/main/res/xml/prefs.xml"
+    },
+    {
+        "merged": "/Users/jc/workspace/morse/buffcode/app/build/intermediates/res/merged/debug/xml/method.xml",
+        "source": "/Users/jc/workspace/morse/buffcode/app/src/main/res/xml/method.xml"
     },
     {
         "merged": "/Users/jc/AndroidStudioProjects/dotdash-keyboard-android1/app/build/intermediates/res/merged/debug/xml/dotdash.xml",

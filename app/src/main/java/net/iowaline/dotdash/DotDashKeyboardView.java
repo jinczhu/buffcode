@@ -196,7 +196,7 @@ public class DotDashKeyboardView extends KeyboardView {
 							// cheat sheet
 							service.handleshift();
 							return true;
-						} else if (mEnableUtilityKeyboard) {
+						} else  {
 							final float absX = Math.abs(velocityX);
 							final float absY = Math.abs(velocityY);
 							float deltaX = e2.getX() - e1.getX();
